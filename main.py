@@ -17,7 +17,8 @@ extension_to_folder = {
     '.pdf': 'PDF Files',
     '.docx' : 'Word Files',
     '.exe' : 'Executables',
-    '.mkv' : 'Video Files'
+    '.mkv' : 'Video Files',
+    '.mp4' : 'Video Files'
     # Add more extensions and corresponding folders as needed
 }
 print("File organization started.")
